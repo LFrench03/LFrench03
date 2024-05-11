@@ -1,7 +1,8 @@
-- 👋 Hola! Mi nombre es Luis Ernesto y soy un estudiante de primer año de la carrera de Ciencia de Datos de la Universidad de la Habana.🏛
--  Amante del aprendizaje y la enseñanza, considero que es el grado mas elevado de dominio del conocimiento. Vivo reflexionando, la filosofía la llevo a donde sea.  Also tengo un PhD en Comedia🤡
-- Aquí en mis repositorios publicos mantengo registro de los proyectos de la facultad y también algunos personales. Además de algunos ejercicios de programacion.🥸
-- 📫 Puede encontrarme en telegram como @Lerne03, fisicamente en MatCom de lunes a viernes hasta el mediodia y en mi caverna el resto del tiempo👤
+- 👋 Hello There! My name is Luis Ernesto and I am a Data Science 1st year student at the University of Havana.🏛
+-  Currently developing programming skills (mostly Python, JS and C#) and web design. (still junior, but growing🥸) 
+-  Passionate aboaut learning and teaching (I consider it to be the highest degree of mastery of knowledge). I live reflecting, I take philosophy wherever I go. I also have a PhD in Comedy🤡
+- Here in my public repositories I keep records of the faculty projects and also some personal ones. In addition to some programming exercises. 
+- 📫 You can find me on telegram as @Lerne03, physically on MatCom from Monday to Friday until noon and in my cave the rest of the time👤
 
 
 <!---
