@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,github"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=js,html,css,git"/>
     <br/>
