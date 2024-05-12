@@ -38,9 +38,9 @@
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,vscode,github"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=js,html,markdown,jupyter,css,latex,git"/>
+    <img src="https://skillicons.dev/icons?i=js,html,markdown,css,latex,git"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=py,r,cpp"/>
+    <img src="https://skillicons.dev/icons?i=py,jupyter,r,cpp"/>
   </a>
 </p>
 
