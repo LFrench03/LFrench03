@@ -36,11 +36,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,github"/>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,git"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,git"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=cpp,py,django,latex,md,r"/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,streamlit,django,latex,md,r"/>
   </a>
 </p>
 
