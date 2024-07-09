@@ -44,7 +44,22 @@
   </a>
 </p>
 
+---
 
+
+### Github Stats:
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=LFrench03&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/josem-nex">
+    <img src="https://komarev.com/ghpvc/?username=LFrench03&color=red&style=for-the-badge)" />
+  </a>
+</p>
 <!---
 LFrench03/LFrench03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
