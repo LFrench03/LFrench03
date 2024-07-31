@@ -66,9 +66,11 @@
 ### LeetCode Stats:
 <p align="center">
   <a>
-    <img src="https://leetcard.jacoblin.cool/Lerne03_leetcode?theme=dark"/>
+    <img src="https://leetcard.jacoblin.cool/Lerne03_leetcode?ext=activity"/>
     <br />
   </a>
+</p>
+
 
 <!---
 LFrench03/LFrench03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
