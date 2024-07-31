@@ -66,7 +66,7 @@
 ### LeetCode Stats:
 <p align="center">
   <a>
-    <img src="https://leetcard.jacoblin.cool/Lerne03leetcode?theme=dark"/>
+    <img src="https://leetcard.jacoblin.cool/Lerne03_leetcode?theme=dark"/>
     <br />
   </a>
 
