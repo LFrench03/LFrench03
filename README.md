@@ -56,7 +56,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/josem-nex">
+  <a href="https://github.com/LFrench03">
     <img src="https://komarev.com/ghpvc/?username=LFrench03&color=red&style=for-the-badge)" />
   </a>
 </p>
@@ -64,7 +64,11 @@
 ---
 
 ### LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/tu_nombre_de_usuario_leetcode?theme=dark)
+<p align="center">
+  <a>
+    <img src="https://leetcard.jacoblin.cool/Lerne03leetcode?theme=dark"/>
+    <br />
+  </a>
 
 <!---
 LFrench03/LFrench03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
