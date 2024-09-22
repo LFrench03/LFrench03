@@ -94,7 +94,7 @@
 ### 🎮 LeetCode Stats:
 <p align="center">
   <a>
-    <img src="https://leetcode-stats.vercel.app/api?username=LFrench03&theme=monokai)](https://leetcode.com/your_username/>
+    <img src="https://leetcode-stats.vercel.app/api?username=LFrench03&theme=monokai)](https://leetcode.com/LFrench03/>
     <br />
   </a>
 </p>
