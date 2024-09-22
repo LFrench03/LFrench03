@@ -92,22 +92,10 @@
 ---
 
 ### 🎮 LeetCode Stats:
-<style>
-.leetcode-stats {
-      display: block;
-      margin: 20px auto;
-      max-width: 400px;
-    }
-</style>
+
 <p align="center">
-
-
-  <a class="leetcode-stats" href="https://leetcode.com/Lerne03/">
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=light" alt="LeetCode Stats" style="max-width:100%;">
-  </a>
-
   <a>
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=light" alt="LeetCode Stats" style="max-width:100%;">
+    <img src="hhttps://leetcard.jacoblin.cool/Lerne03?theme=transparent" alt="LeetCode Stats" style="max-width:100%;">
     <br />
   </a>
 </p>
