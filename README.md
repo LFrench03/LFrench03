@@ -80,9 +80,9 @@
 ### 📊 Github Stats:
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=LFrench03&theme=dark&show_icons=truee&bg_color=101010"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dark&show_icons=true&bg_color=101010"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LFrench03&theme=dark&show_icons=truee&bg_color=101010"/>
   </a>
 </p>
 
