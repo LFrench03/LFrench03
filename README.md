@@ -38,7 +38,7 @@
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div style="display: flex; align-items: flex-start; align: center">
+<p align="center">
     <a align="center" width="80">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" />
       <br>Python
@@ -55,7 +55,7 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
       <br>Git
     </a>         
-</div>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
