@@ -28,9 +28,6 @@
   <a href="https://t.me/Lerne03">
     <img alt="Telegram" width="95px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a target="_blank" href="mailto:luisernestoserras@gmail.com">
-    <img  alt="Gmail" width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a target="_blank" href="https://www.linkedin.com/in/luis-ernesto-serras-91b708329">
     <img  alt="Linkedin" width="85px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
@@ -39,7 +36,10 @@
   </a>
   <a target="_blank" href="https://x.com/Lerne03">
     <img  alt="X" width="40px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-  </a>    
+  </a>   
+  <a target="_blank" href="mailto:luisernestoserras@gmail.com">
+    <img  alt="Gmail" width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>   
 </p>
 
 ---
