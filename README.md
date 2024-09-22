@@ -19,8 +19,7 @@
 
 ---
   
-  
-### 🌐 Contact:
+<h2 align="center">🌐 Contact</h2>
 <p align="center">
   <a href="https://t.me/Lerne03">
     <img alt="Telegram" width="93px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -41,7 +40,7 @@
 
 ---
 
-### <h2 align="center"><i style="color:blue;">💻 Tech Stack</i></h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
