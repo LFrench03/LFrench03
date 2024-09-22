@@ -16,7 +16,10 @@
 
 - 🤡 I also have a **PhD** in **Comedy**.
 
-  
+
+<p></p> 
+
+
 <h2 align="center">🌐 Contact</h2>
 <p align="center">
   <a href="https://t.me/Lerne03">
@@ -36,6 +39,10 @@
   </a>   
 </p>
 
+
+<p></p> 
+
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -48,6 +55,10 @@
   <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
   </a>
 </p>
+
+
+<p></p> 
+
 
 <h2 align="center">📊 Git Hub Stats</h2>
 
