@@ -9,7 +9,6 @@
     <img src="https://komarev.com/ghpvc/?username=LFrench03&color=blue&style=for-the-badge)" />
   </a>
 </p>
----
 
 
 - 💻 I'm a **Data Science** student at **Havana University**🏛.
@@ -27,10 +26,10 @@
 ### 🌐 Contact:
 <p align="center">
   <a href="https://t.me/Lerne03">
-    <img alt="Telegram" width="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram" width="120px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a target="_blank" href="mailto:luisernestoserras@gmail.com">
-    <img  alt="Gmail" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
