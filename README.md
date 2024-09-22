@@ -17,9 +17,8 @@
 - 🤡 I also have a **PhD** in **Comedy**.
 
   
-
+<h2 align="center">🌐 Contact</h2>
 <p align="center">
-  <h2>🌐 Contact</h2>
   <a href="https://t.me/Lerne03">
     <img alt="Telegram" width="93px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -37,78 +36,35 @@
   </a>   
 </p>
 
+<h2 align="center">💻 Tech Stack</h2>
+
 <div style="display: flex; align-items: flex-start; align: center">
-<h2>💻 Tech Stack</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="80">
+    <a align="center" width="80">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" />
       <br>Python
-    </td>
-    <td align="center" width="80">
+    </a>
+    <a align="center" width="80">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
       <br>JavaScript
-    </td>
-    <td align="center" width="80">
+    </a>
+    <a align="center" width="80">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
       <br>C++
-    </td>
-    <td align="center" width="80"> 
+    </a>
+    <a align="center" width="80"> 
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
       <br>Git
-    </td>         
- </tr>
-</table>
-
+    </a>         
 </div>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
+<p align="center">
   <a href="https://skillicons.dev">
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=linux"/>
-    <br>Linux
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-    <br>VSCode
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=git"/>
-    <br>Git
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=html"/>
-    <br>HTML
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=css"/>
-    <br>CSS
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=latex"/>
-    <br>LaTeX
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=r"/>
-    <br>R
-  </td>        
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=md"/>
-    <br>Markdown
-  </td>  
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=matlab"/>
-    <br>Matlab
-  </td>         
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
   </a>
- </tr>
-</table>
+</p>
 
-</div>
+<h2 align="center">📊 Git Hub Stats</h2>
 
 <p align="center">
-<h2>📊 Git Hub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 <p align="center">
@@ -121,8 +77,9 @@
 </p>
 <br/>
 
+<h2 align="center">🎮 LeetCode Stats</h2>
+
 <p align="center">
-<h2>🎮 LeetCode Stats</h2>
   <a>
     <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats" style="max-width:100%;">
     <br />
