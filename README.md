@@ -67,31 +67,31 @@
   <a href="https://skillicons.dev">
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=linux"/>
-  </td>
+  </td>Linux
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=vscode"/>
-  </td>
+  </td>VS Code
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=git"/>
-  </td>
+  </td>Git
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=html"/>
-  </td>
+  </td>Html
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=css"/>
-  </td>
+  </td>CSS
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=latex"/>
-  </td>
+  </td>LaTeX
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=r"/>
-  </td>              
+  </td>R         
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=md"/>
-  </td>   
+  </td>Markdown  
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=matlab"/>
-  </td>          
+  </td>Matlab          
   </a>
  </tr>
 </table>
