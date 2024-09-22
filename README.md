@@ -38,7 +38,7 @@
     <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a target="_blank" href="https://x.com/Lerne03">
-    <img  alt="Gmail" width="50px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+    <img  alt="Gmail" width="40px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>    
 </p>
 
@@ -85,12 +85,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
   </a>
 </p>
+
 ---
 
 ### 🎮 LeetCode Stats:
 <p align="center">
   <a>
-    <img src="https://leetcard.jacoblin.cool/"/>
+    <img src="https://leetcard.jacoblin.cool"/>
     <br />
   </a>
 </p>
