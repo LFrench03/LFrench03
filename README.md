@@ -1,9 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!!+👋;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Hello+There!!+👋;" /> 
     <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=4000&lines=I'm+Luis+Ernesto+and+I'm+from+Cuba+🇨🇺!;" /> 
     </br>
 </h1>
+<p align="center">
+  <a href="https://github.com/LFrench03">
+    <img src="https://komarev.com/ghpvc/?username=LFrench03&color=blue&style=for-the-badge)" />
+  </a>
+</p>
 ---
 
 
@@ -73,11 +78,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dracula&show_icons=true&hide_border=true&bg_color=101010"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/LFrench03">
-    <img src="https://komarev.com/ghpvc/?username=LFrench03&color=red&style=for-the-badge)" />
-  </a>
-</p>
+
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LFrench03/LFrench03/blob/output/github-snake-dark.svg" />
