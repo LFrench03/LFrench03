@@ -46,19 +46,19 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="80">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" />
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="80"> 
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>         
