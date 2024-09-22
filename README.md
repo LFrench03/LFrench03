@@ -122,7 +122,7 @@
 </p>
 <br/>
 
-<h2 align="center">🎮 LeetCode Stats"</h2>
+<h2 align="center">🎮 LeetCode Stats</h2>
 
 <p align="center">
   <a>
