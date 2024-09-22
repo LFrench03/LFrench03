@@ -16,8 +16,6 @@
 
 - 🤡 I also have a **PhD** in **Comedy**.
 
-
----
   
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=🌐+Contact;" /> 
@@ -40,7 +38,6 @@
   </a>   
 </p>
 
----
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=💻+Tech+Stack;" />
 </h2>
@@ -74,8 +71,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
@@ -88,8 +83,6 @@
   </a>
 </p>
 <br/>
-
----
 
 <p align="center">
   <a>
