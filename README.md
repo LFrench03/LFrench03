@@ -17,9 +17,7 @@
 - 🤡 I also have a **PhD** in **Comedy**.
 
   
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=🌐+Contact;" /> 
-</h2>
+<h2 align="center">🌐 Contact"</h2>
 <p align="center">
   <a href="https://t.me/Lerne03">
     <img alt="Telegram" width="93px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -38,9 +36,7 @@
   </a>   
 </p>
 
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=💻+Tech+Stack;" />
-</h2>
+<h2 align="center">💻 Tech Stack"</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -71,9 +67,8 @@
   </a>
 </p>
 
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=📊+GitHub+Stats;" />
-</h2>
+<h2 align="center">📊 Git Hub Stats"</h2>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
@@ -87,11 +82,11 @@
 </p>
 <br/>
 
----
+<h2 align="center">🎮 LeetCode Stats"</h2>
 
 <p align="center">
   <a>
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats">
+    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats" style="max-width:100%;">
     <br />
   </a>
 </p>
