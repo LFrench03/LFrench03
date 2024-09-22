@@ -40,7 +40,8 @@
 </p>
 
 ---
-### <h2 align="center">💻 Tech Stack:</h2>
+
+### <h2 align="center">Tech Stack💻</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
