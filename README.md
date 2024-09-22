@@ -38,10 +38,6 @@
   </a>   
 </p>
 
-
----
-
-
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=💻+Tech+Stack;" />
 </h2>
@@ -75,6 +71,11 @@
   </a>
 </p>
 
+---
+
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=📊+GitHub+Stats;" />
+</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
@@ -90,10 +91,9 @@
 
 ---
 
-
 <p align="center">
   <a>
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats" style="max-width:100%;">
+    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=blue_dark" alt="LeetCode Stats" style="max-width:100%;">
     <br />
   </a>
 </p>
