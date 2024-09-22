@@ -66,9 +66,6 @@
   <tr>
   <a href="https://skillicons.dev">
   <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
-  </td>
-  <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=linux"/>
   </td>
   <td align="center" width="80">
