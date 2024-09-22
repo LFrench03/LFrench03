@@ -40,7 +40,7 @@
 
 <p align="center">
     <a>
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="75" height="75" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" alt="Git" />
     </a>     
 </p>
 <p align="center">
