@@ -17,8 +17,9 @@
 - 🤡 I also have a **PhD** in **Comedy**.
 
   
-<h2 align="center">🌐 Contact</h2>
+
 <p align="center">
+  <h2>🌐 Contact</h2>
   <a href="https://t.me/Lerne03">
     <img alt="Telegram" width="93px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -36,9 +37,8 @@
   </a>   
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-
 <div style="display: flex; align-items: flex-start; align: center">
+<h2>💻 Tech Stack</h2>
 <table align="center">
   <tr>
     <td align="center" width="80">
@@ -107,9 +107,8 @@
 
 </div>
 
-<h2 align="center">📊 Git Hub Stats</h2>
-
 <p align="center">
+<h2>📊 Git Hub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 <p align="center">
@@ -122,9 +121,8 @@
 </p>
 <br/>
 
-<h2 align="center">🎮 LeetCode Stats</h2>
-
 <p align="center">
+<h2>🎮 LeetCode Stats</h2>
   <a>
     <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats" style="max-width:100%;">
     <br />
