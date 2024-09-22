@@ -70,7 +70,7 @@
 <h2 align="center">📊 Git Hub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="55%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 <p align="center">
   <a href="https://github.com/LFrench03?tab=repositories">
