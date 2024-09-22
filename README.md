@@ -19,7 +19,9 @@
 
 ---
   
-<h2 align="center">🌐 Contact</h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=400&height=50&duration=2000&lines=🌐+Contact;" /> 
+</h2>
 <p align="center">
   <a href="https://t.me/Lerne03">
     <img alt="Telegram" width="93px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
