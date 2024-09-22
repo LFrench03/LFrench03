@@ -71,7 +71,7 @@
   </td>
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=vscode"/>
-    <br>VS Code
+    <br>VSCode
   </td>
   <td align="center" width="80">
     <img src="https://skillicons.dev/icons?i=git"/>
