@@ -61,11 +61,45 @@
 </table>
 
 </div>
-<p align="center">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=linux"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=git"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=html"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=css"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=latex"/>
+  </td>
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=r"/>
+  </td>              
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=md"/>
+  </td>   
+  <td align="center" width="80">
+    <img src="https://skillicons.dev/icons?i=matlab"/>
+  </td>          
   </a>
-</p>
+ </tr>
+</table>
+
+</div>
 
 <h2 align="center">📊 Git Hub Stats</h2>
 
