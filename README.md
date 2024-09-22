@@ -20,7 +20,7 @@
 ---
   
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=400&height=50&duration=2000&lines=🌐+Contact;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=🌐+Contact;" /> 
 </h2>
 <p align="center">
   <a href="https://t.me/Lerne03">
@@ -28,7 +28,7 @@
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/luis-ernesto-serras-91b708329">
     <img  alt="Linkedin" width="85px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+  </a>  
   <a target="_blank" href="https://www.instagram.com/luijernesto_sr">
     <img  alt="Instagram" width="95px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
@@ -41,8 +41,9 @@
 </p>
 
 ---
-
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=💻+Tech+Stack;" />
+</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
