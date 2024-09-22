@@ -91,7 +91,7 @@
 ### 🎮 LeetCode Stats:
 <p align="center">
   <a>
-    <img src="https://leetcard.jacoblin.cool"/>
+    <img src="https://leetcard.jacoblin.cool/Lerne03"/>
     <br />
   </a>
 </p>
