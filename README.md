@@ -40,21 +40,9 @@
 
 <p align="center">
     <a align="center" width="80">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" />
-      <br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" /> width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
     </a>
-    <a align="center" width="80">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
-      <br>JavaScript
-    </a>
-    <a align="center" width="80">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="65" height="65" />
-      <br>C++
-    </a>
-    <a align="center" width="80"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </a>         
+    <a align="center" width="80">     
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
