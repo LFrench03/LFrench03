@@ -77,7 +77,7 @@
 ### 📊 Github Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dark&layout=compact"width="48%"/> 
 </p>  
 <p align="center">
   <a href="https://github.com/LFrench03?tab=repositories">
