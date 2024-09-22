@@ -40,8 +40,7 @@
 </p>
 
 ---
-
-### 💻 My Skills:
+### <h2 align="center">💻 Tech Stack:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -74,8 +73,6 @@
 
 ---
 
-### 📊 Github Stats:
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
@@ -90,8 +87,6 @@
 <br/>
 
 ---
-
-### 🎮 LeetCode Stats:
 
 <p align="center">
   <a>
