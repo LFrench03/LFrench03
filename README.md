@@ -95,7 +95,7 @@
 
 <p align="center">
   <a>
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=transparent" alt="LeetCode Stats" style="max-width:100%;">
+    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats" style="max-width:100%;">
     <br />
   </a>
 </p>
