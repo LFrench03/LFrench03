@@ -26,19 +26,19 @@
 ### 🌐 Contact:
 <p align="center">
   <a href="https://t.me/Lerne03">
-    <img alt="Telegram" width="140px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram" width="90px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a target="_blank" href="mailto:luisernestoserras@gmail.com">
-    <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img  alt="Gmail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/luis-ernesto-serras-91b708329">
-    <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img  alt="Gmail" width="80px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.instagram.com/luijernesto_sr">
     <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a target="_blank" href="https://x.com/Lerne03">
-    <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+    <img  alt="Gmail" width="50px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>    
 </p>
 
@@ -71,7 +71,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,numpy,pandas,plotly,matplotlib,scipy,folium,r,md,matlab"/>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,html,css,latex,r,md,matlab"/>
   </a>
 </p>
 
@@ -80,9 +80,9 @@
 ### 📊 Github Stats:
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=LFrench03&theme=dracula&show_icons=true&hide_border=true&bg_color=101010"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LFrench03&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dracula&show_icons=true&hide_border=true&bg_color=101010"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dark&show_icons=true&hide_border=true&bg_color=101010"/>
   </a>
 </p>
 ---
@@ -90,7 +90,7 @@
 ### 🎮 LeetCode Stats:
 <p align="center">
   <a>
-    <img src="https://leetcard.jacoblin.cool/Lerne03theme=dracula&show_icons=true&hide_border=true&bg_color=101010"/>
+    <img src="https://leetcard.jacoblin.cool/"/>
     <br />
   </a>
 </p>
