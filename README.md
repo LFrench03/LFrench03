@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=5000&lines=Hello+There!!+👋;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!!+👋;" /> 
     <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=5400&lines=I'm+Luis+Ernesto+and+I'm+from+Cuba+🇨🇺!;" /> 
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=4500&lines=I'm+Luis+Ernesto+and+I'm+from+Cuba+🇨🇺!;" /> 
     </br>
 </h1>
 <p align="center">
@@ -27,10 +27,10 @@
 ### 🌐 Contact:
 <p align="center">
   <a href="https://t.me/Lerne03">
-    <img alt="Telegram" width="149px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram" width="30px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a target="_blank" href="mailto:luisernestoserras@gmail.com">
-    <img  alt="Gmail" width="108px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img  alt="Gmail" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -78,14 +78,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=dracula&show_icons=true&hide_border=true&bg_color=101010"/>
   </a>
 </p>
-
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LFrench03/LFrench03/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/LFrench03/LFrench03/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/LFrench03/LFrench03/blob/output/ocean.gif" />
-  </picture>
-</div>
 ---
 
 ### 🎮 LeetCode Stats:
