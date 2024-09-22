@@ -73,7 +73,7 @@
 
 ---
 ### Contributions
-![Snake animation](https://github.com/Lerne/Lerne/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LFrench03/LFrench03/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
