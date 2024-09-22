@@ -32,13 +32,13 @@
     <img  alt="Gmail" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/luis-ernesto-serras-91b708329">
-    <img  alt="Gmail" width="80px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img  alt="Linkedin" width="85px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.instagram.com/luijernesto_sr">
-    <img  alt="Gmail" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+    <img  alt="Instagram" width="95px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a target="_blank" href="https://x.com/Lerne03">
-    <img  alt="Gmail" width="40px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+    <img  alt="X" width="40px" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>    
 </p>
 
