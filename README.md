@@ -38,6 +38,10 @@
   </a>   
 </p>
 
+
+---
+
+
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=6000&lines=💻+Tech+Stack;" />
 </h2>
@@ -83,6 +87,9 @@
   </a>
 </p>
 <br/>
+
+---
+
 
 <p align="center">
   <a>
