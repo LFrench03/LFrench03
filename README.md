@@ -93,7 +93,7 @@
 
 <p align="center">
   <a>
-    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=blue_dark" alt="LeetCode Stats" style="max-width:100%;">
+    <img src="https://leetcode-stats.vercel.app/api?username=Lerne03&theme=dark" alt="LeetCode Stats">
     <br />
   </a>
 </p>
