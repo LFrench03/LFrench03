@@ -71,6 +71,10 @@
   </a>
 </p>
 
+---
+### Contributions
+![Snake animation](https://github.com/Lerne/ninja1375/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 LFrench03/LFrench03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
