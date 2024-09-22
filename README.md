@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/LFrench03">
-    <img src="https://komarev.com/ghpvc/?username=LFrench03&color=blue&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=LFrench03&color=blue&style=for-the-badge)" />
   </a>
 </p>
 
