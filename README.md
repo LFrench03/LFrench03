@@ -67,6 +67,7 @@
 <br/>
 
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Lerne03)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Lerne03)](https://leetcode.com/Lerne03/)
+
 
 
