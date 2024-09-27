@@ -68,9 +68,6 @@
 
 <h2 align="center">🎮 LeetCode Stats</h2>
 
-<p align="center">
-  <a>
-    <img src="https://leetcard.jasonlazar.com/john_doe.svg" alt="LeetCode Stats" style="max-width:100%;">
-    <br />
-  </a>
-</p>
+|[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Lerne03)](https://leetcode.com/Lerne03/) | [![LeetCode Completed Problems](https://leetcode-stats.vercel.app/api/top-problems/?username=Lerne03&layout=compact)](https://leetcode.com/Lerne03/) |
+
+
