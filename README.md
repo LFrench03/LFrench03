@@ -41,7 +41,7 @@
 
 <p align="center">
     <a>
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="75" height="75" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="py" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="75" height="75" />  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="js" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="75" height="75" alt="Git" />
     </a>     
 </p>
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 
-<h2 align="center">📊 Git Hub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%"/> 
