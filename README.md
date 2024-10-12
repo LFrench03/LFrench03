@@ -70,7 +70,7 @@
 <h2 align="center">📊  🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Tnoob-dev&icon=3&color=6)](https://visitcount.itsvg.in"width="48%"/> 
+<img src="[https://visitcount.itsvg.in/api?id=Tnoob-dev&icon=3&color=6)](https://visitcount.itsvg.in](https://github-profile-trophy.vercel.app/?username=Tnoob-dev&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)"width="48%"/> 
 </p>  
 
 
