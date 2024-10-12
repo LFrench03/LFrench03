@@ -70,7 +70,7 @@
 <h2 align="center">📊  🏆 GitHub Trophies</h2>
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=LFrench03&theme=shadow_blue&layout=compact"width="48%](https://github-profile-trophy.vercel.app/?username=LFrench03&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)"/> 
+<img src="https://github-profile-trophy.vercel.app/?username=LFrench03&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4"width="48%/> 
 </p>  
 
 
