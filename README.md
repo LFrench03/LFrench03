@@ -67,5 +67,9 @@
 <br/>
 
 
+<h2 align="center">📊  🏆 GitHub Trophies</h2>
+![](https://github-profile-trophy.vercel.app/?username=LFrench03&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)
+
+
 
 
